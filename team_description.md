@@ -1,3 +1,3 @@
 # Team Description
 
-DeMatha Cyber Team 
+The DeMatha Cyber Team consists of students from every grade with an interest in information security and capture the flag (CTF) competitions. The team competes in high school and collegiate level CTFs locally, nationally, and internationally. The goal of the team is to learn, explore, and challenge oneself across various information security domains outside of the classroom. Many of the competitions are completed online with a few hosted at local institutions. At practices, cyber team members hone their skills using the wide range of online challenges, tutorials, walkthroughs, and, if possible, in-person presentations. The cyber team is best suited for students with a strong desire to study computer science in college and pursue a career as a cybersecurity professional. 
