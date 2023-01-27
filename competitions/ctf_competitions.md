@@ -29,4 +29,12 @@
 - TJCTF 23 : Summer 2023
 - Link [here](https://tjctf.org/)
 
+## Cyber Skyline
+- Anytime 
+- Link [here](https://cyberskyline.com/#competition)
+
+## CyberPatriot
+- April 2023
+- Link [here](https://www.uscyberpatriot.org/)
+
 Can add more CTFs found on [CTFTime](https://ctftime.org/). 
