@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="460" height="300" src="img/logo.png">
+</p>
+
+
 # DeMatha Cyber Team 
 
 Repository for DeMatha Cyber Team which includes resources, team description, and information. 
