@@ -8,3 +8,6 @@
 - Free, subscription for students 
 - Link [here](https://www.codecademy.com/)
 
+## Daily Programmer 
+- Free, on Reddit
+- Link [here](https://www.reddit.com/r/dailyprogrammer/)
