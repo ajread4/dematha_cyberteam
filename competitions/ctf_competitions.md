@@ -1,7 +1,6 @@
 # CTF Competitions
 
 ## picoCTF
-- picoGYM is always online and available to play 
 - Link [here](https://picoctf.org/)
 
 ## NeverLAN CTF
@@ -9,9 +8,6 @@
 
 ## HSCTF
 - Link [here](https://hsctf.com/)
-
-## OvertheWire (Wargames)
-- Link [here](https://overthewire.org/wargames/)
 
 ## CSAW CTF
 - Link [here](https://www.csaw.io/ctf)
